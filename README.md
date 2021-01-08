@@ -1,6 +1,6 @@
 # GoFinances
 
-Aplicação _web_ para gestão de transações financeiras aplicado no Bootcamp da GoStack - [Rocketseat](https://rocketseat.com.br/).
+Aplicação _web_ para gestão de transações financeiras aplicado no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/).
 
 ![](https://imgur.com/GObghG2.png)
 
