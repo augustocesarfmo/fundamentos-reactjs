@@ -16,7 +16,6 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 - [polished](https://www.npmjs.com/package/polished)
 - [styled-components](https://styled-components.com/)
 - [yup](https://github.com/jquense/yup)
-- [vs code][vc]
 
 ## ℹ️ Executando
 
